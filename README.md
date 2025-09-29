@@ -1,10 +1,25 @@
-# Todo-list
+# Todo List Application
 
-A modern, responsive Todo List web application built with Html, CSS, and Javascript.
+A modern, responsive Todo List web application built HTML, CSS and JavaScript.
 
-##Features
-=> Add new tasks
-=> Delete existing tasks
-=> Fully responsive design
 
-##Technologies Used -**HTML5**-Semantic Structue -**CSS3**-Styling -**JavaScript**-Application logic
+
+## ✨ Features
+
+- ✅ Add new tasks
+- 🗑️ Delete tasks 
+
+
+## 🚀 Live Demo
+
+[View Live on GitHub Pages]
+(https://higoldi31.github.io/Todo-list/)
+
+
+## 🛠️ Technologies Used
+
+- **HTML5** - Semantic structure
+- **CSS3** - Styling
+- **JavaScript** - Application logic
+
+
